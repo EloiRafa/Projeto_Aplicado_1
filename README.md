@@ -24,7 +24,7 @@ Thiago Graziani Traue
 
 Aline Aleksiejuk Ferreira
 RA/TIA: 10433718/ 24004308
-E-mail: l10433718@mackenzista.com.br
+E-mail: 10433718@mackenzista.com.br
 
 Karen Santos Souza 
 RA/TIA: 10342208/ 24003476
