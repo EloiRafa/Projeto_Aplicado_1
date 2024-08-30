@@ -11,17 +11,14 @@ Extrair Dados: Conectar à base de dados do INSS e realizar a extração dos dad
 Transformar Dados: Processar os dados para garantir sua integridade e estrutura adequada para análise.
 Análise e Visualização: Analisar os dados para identificar padrões e criar visualizações que suportem a decisão sobre ajustes na tabela de seguros.
 Relatório Final: Gerar um relatório detalhado com os principais achados e recomendações.
-Recursos Utilizados
-Python 3.x
-Bibliotecas Python:
+# Recursos Utilizados
+Python 
+# Bibliotecas Python 
 Pandas
-NumPy
-Matplotlib
-Seaborn
-Docentes:
-XXX
 
-XXX
+# Docentes:
+Thiago Graziani Traue
+
 
 # Discentes:
 
@@ -29,11 +26,14 @@ Aline Aleksiejuk Ferreira
 RA/TIA: 10433718/ 24004308
 E-mail: l10433718@mackenzista.com.br
 
-RA/TIA:
-E-mail:
+Karen Santos Souza 
+RA/TIA: 10342208/ 24003476
+E-mail: 10342208@mackenzista.com.br
 
-RA/TIA:
-E-mail:
+Rafael Ferreira Eloi dos Santos
+RA/TIA: 10442962/ 24021040
+E-mail: 10442962@mackenzista.com.br
 
-RA/TIA:
-E-mail:
+Natallia Rodrigues de Oliveira
+RA/TIA: 10444681 / 24497665
+E-mail: 10444681@mackenzista.com.br
